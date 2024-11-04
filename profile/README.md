@@ -1,8 +1,8 @@
-# BWRGY Satellite Projects
+# BWRGY Projects
 
-**BWRGY Org** is developing a main site, a network of .wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
+**BWRGY** is developing a network of .wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
 
-- **Main Site (bwrgy.org)**: The central hub for projects and updates
+- **Main Site (bwrgy.org)**: Central hub for projects and updates
 - **.wiki Sites**: Community-driven websites for knowledge sharing
 - **Community Projects**: Digital initiatives to foster engagement and connectivity
 - **Social Impact Projects**: Programs focused on raising awareness of key issues
