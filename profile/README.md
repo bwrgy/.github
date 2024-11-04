@@ -2,7 +2,6 @@
 
 **BWRGY Org** is developing a main site, a network of .wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
 
-## Key Components
 - **Main Site (bwrgy.org)**: The central hub for projects and updates.
 - **.wiki Sites**: Community-driven websites for knowledge sharing.
 - **Community Projects**: Digital initiatives to foster engagement and connectivity.
