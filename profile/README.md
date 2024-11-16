@@ -1,6 +1,6 @@
 # BWRGY
 
-**BWRGY** is developing a network of .wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
+**BWRGY** is developing a network of wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
 
 - **Main Site (bwrgy.org)**: Central hub for projects and updates
 - **.wiki Sites**: Community-driven websites for knowledge sharing
