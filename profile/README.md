@@ -8,4 +8,6 @@ BWRGY is building a network of community and social impact projects to drive cul
 
 - **Social Impact Projects:** Knowledge websites focused on language, culture, history, and tradition (e.g., tibetanprayerflags.wiki)
 
+<br>
+
 > **Note:** This monorepo is under active development. We’ll share more about the architecture, frameworks, deployment setup, and how to contribute. Stay tuned!
