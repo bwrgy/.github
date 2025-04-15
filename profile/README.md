@@ -1,4 +1,4 @@
-# BWRGY Monorepo
+# BWRGY
 
 **BWRGY** is building a network of wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
 
