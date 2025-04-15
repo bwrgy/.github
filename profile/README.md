@@ -1,6 +1,6 @@
 # BWRGY
 
-**BWRGY** is building a network of community and social impact projects to drive cultural engagement and awareness.
+BWRGY is building a network of community and social impact projects to drive cultural engagement and awareness.
 
 - **Main Site:** Central hub for projects and updates ([bwrgy.org](https://bwrgy.org))
 
