@@ -3,9 +3,7 @@
 BWRGY is building a network of community and social impact projects to drive cultural engagement and awareness.
 
 - **Main Site:** Central hub for projects and updates ([bwrgy.org](https://bwrgy.org))
-
 - **Community Projects:** Digital initiatives to foster engagement and connectivity (e.g., tibetangorshey.org)
-
 - **Social Impact Projects:** Knowledge websites focused on language, culture, history, and tradition (e.g., tibetanprayerflags.wiki)
 
 <br>
