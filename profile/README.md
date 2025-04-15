@@ -1,21 +1,11 @@
 # BWRGY
 
-**BWRGY** is building a network of wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
+**BWRGY** is building a network of community and social impact projects to drive cultural engagement and awareness.
 
-## Project Overview
+- **Main Site:** Central hub for projects and updates ([bwrgy.org](https://bwrgy.org))
 
-- **Main Site ([bwrgy.org](https://bwrgy.org))**  
-  Central hub for projects and updates
+- **Community Projects:** Digital initiatives to foster engagement and connectivity (e.g., tibetangorshey.org)
 
-- **Wiki Sites**  
-  Community-driven websites for knowledge sharing
+- **Social Impact Projects:** Knowledge websites focused on language, culture, history, and tradition (e.g., tibetanprayerflags.wiki)
 
-- **Community Projects**  
-  Digital initiatives to foster engagement and connectivity
-
-- **Social Impact Projects**  
-  Programs focused on raising awareness of key issues
-
-## Development Notes
-
-This monorepo is under active development. We’ll soon share more about the architecture, frameworks, deployment setup, and how to contribute. Stay tuned!
+> **Note:** This monorepo is under active development. We’ll share more about the architecture, frameworks, deployment setup, and how to contribute. Stay tuned!
