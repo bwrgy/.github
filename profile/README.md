@@ -2,7 +2,6 @@
 
 **BWRGY** is building a network of wiki sites, and various community and social impact projects to drive cultural engagement and awareness.
 
----
 
 ## 🌐 Project Overview
 
@@ -18,13 +17,11 @@
 - **Social Impact Projects**  
   Programs focused on raising awareness of key issues
 
----
 
 ## 🚧 Work in Progress
 
 This monorepo is under active development. Stay tuned for updates as we grow and launch new projects.
 
----
 
 ## 🛠️ Tech & Tooling (Coming Soon)
 
